@@ -22,3 +22,6 @@ There are many sources of public sentiment e.g. public interviews, opinion polls
 The output looks like : <br />
 ![](sentiment.gif)
 
+![image](https://github.com/user-attachments/assets/de09104f-c2f8-4da4-b7c4-70d3d7c41039)
+
+
